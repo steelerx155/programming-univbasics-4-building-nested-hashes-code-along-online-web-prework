@@ -1,12 +1,12 @@
 def second_challenge 
 epic_tragedy = {
    :montague => {
-      :patriarch => {name: "Lord Montague", age: "53"},
-      :matriarch => {name: "Lady Montague", age: "54"},
-      :hero => {name: "Romeo", age: "15", status: "alive"},
+      :patriarch => {},
+      :matriarch => {},
+      :hero => {name: {},
       :hero_friends => [
-         {name: "Benvolio", age: "17", attitude: "worried"},
-         {name: "Mercutio", age: "18", attitude: "hot-headed"}
+         {},
+         {}
       ]
    },
       :capulet => { 
@@ -18,5 +18,4 @@ epic_tragedy = {
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-}
-end
+  }
