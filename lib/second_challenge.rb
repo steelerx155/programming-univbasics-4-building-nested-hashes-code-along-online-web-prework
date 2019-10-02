@@ -3,11 +3,11 @@ epic_tragedy = {
    :montague => {
       :patriarch => {},
       :matriarch => {},
-      :hero => {name: {},
+      :hero => {}
       :hero_friends => [
-         {},
-         {}
-      ]
+            {},
+            {}
+          ]} 
    },
       :capulet => { 
       :patriarch => {},
