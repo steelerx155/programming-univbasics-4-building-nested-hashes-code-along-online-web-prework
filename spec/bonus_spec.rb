@@ -9,3 +9,4 @@ describe "bonus" do
 
   end
 end
+command + /
