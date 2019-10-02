@@ -15,7 +15,6 @@ epic_tragedy = {
       :matriarch => {},
       :heroine => {},
       :heroine_friends => []
-      ]
    }
    }
  end
